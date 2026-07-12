@@ -1,7 +1,7 @@
 [project]
-name = "multi-agent-system-base-template-data-analyst-enterprise-build"
+name = "multi-agent-system-data-analyst-enterprise-build"
 version = "0.1.0"
-description = "Multi-agent-system base template (enterprise version) for data analysis using LangGraph (Supervisor + Specialist Agents)"
+description = "Multi-agent-system (enterprise version) for data analysis using LangGraph (Supervisor + Specialist Agents)"
 readme = "README.md"
 requires-python = ">=3.14"
 license = { text = "MIT" }
