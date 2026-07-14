@@ -7,4 +7,4 @@ Will update the readme here and all project files needed to clone repo and run y
 
 Here is a diagram I made to show the system architecture design for the enterprise grade build.
 
-![System_Architecture_New](Screenshots/System_Architecture_Diagram_new.png)
+![System_Architecture_New](Screenshots/System_Architecture_Diagram_new.drawio.png)
