@@ -10,11 +10,11 @@ Will update the readme here and all project files needed to clone repo and run y
 
 Here is a diagram I made to show the system architecture design for the enterprise build.
 
-![System_Architecture](Screenshots/System_Architecture_Diagram_version.drawio.png)
+![System_Architecture](Screenshots/System_Architecture_Diagram_drawio.png)
 
 
 
 Here is a flowchart I made showing the backend mechanics of the enterprise build.
 
 
-![Chat_Agent_Flowchart](Screenshots/Chat_Agent_FlowChart.drawio.png)
+![Chat_Agent_Flowchart](Screenshots/Chat_Agent_Flowchart_Diagram_drawio.png)
