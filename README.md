@@ -27,4 +27,4 @@ Here is a flowchart I made showing the backend mechanics of the enterprise build
 This is another perspective into how the agents function in the enterprise build.
 
 
-![Agents](Screenshots/Agent_Specialist_Diagram_current_version_drawio.png)
+![Agents](Screenshots/Agent_Specialist_current_drawio.png)
