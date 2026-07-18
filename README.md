@@ -18,7 +18,7 @@ Here is a diagram I made to show the system architecture design for the enterpri
 Here is a flowchart I made showing the backend mechanics of the enterprise build.
 
 
-![Chat_Flowchart](Screenshots/Delegation_Flow_Diagram.drawio.png)
+![Chat_Flowchart](Screenshots/Delegation_Flow_Agents_Diagram.drawio.png)
 
 
 
