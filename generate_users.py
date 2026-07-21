@@ -1,1 +1,1 @@
-# manually generate and change roles processing file
+# manually generate users + establish and/or change roles processing file
