@@ -1,1 +1,1 @@
-
+# authorities config file
